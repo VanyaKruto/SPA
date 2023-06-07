@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/SPAAPP/static/css/main.891be77c.css",
-    "main.js": "/SPAAPP/static/js/main.6ef18807.js",
-    "index.html": "/SPAAPP/index.html",
-    "main.891be77c.css.map": "/SPAAPP/static/css/main.891be77c.css.map",
-    "main.6ef18807.js.map": "/SPAAPP/static/js/main.6ef18807.js.map"
+    "main.css": "/SPA/static/css/main.891be77c.css",
+    "main.js": "/SPA/static/js/main.6ef18807.js",
+    "index.html": "/SPA/index.html",
+    "main.891be77c.css.map": "/SPA/static/css/main.891be77c.css.map",
+    "main.6ef18807.js.map": "/SPA/static/js/main.6ef18807.js.map"
   },
   "entrypoints": [
     "static/css/main.891be77c.css",
